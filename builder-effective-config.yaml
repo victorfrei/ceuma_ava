@@ -1,0 +1,9 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.electron.avaceuma
+productName: AVA Ceuma
+win:
+  target: nsis
+  icon: ./public/logo.png
+electronVersion: 13.1.0
